@@ -1,0 +1,23 @@
+.ListItem {
+  padding-top: 0px;
+  padding-bottom: 0px;
+}
+.ListItemTextPrimary{
+  margin-top: 0px;
+  margin-bottom: 0px;
+  font-family: 'Roboto Mono', 'monospace';
+  font-size: 13.333px; 
+}
+.ListItemTextSecondary{
+  margin-top: 0px;
+  margin-bottom: 0px;
+  font-family: 'Roboto Mono', 'monospace';
+  font-size: 13.333px; 
+}
+.itemText{
+
+}
+.itemText-Highlight{
+  background-color: chartreuse;
+  
+}
